@@ -1,0 +1,10 @@
+[general]
+name=Sistema Dimensionamento Irrigacao
+qgisMinimumVersion=3.16
+description=Automação do dimensionamento de sistemas de irrigação por aspersão
+version=0.1
+author=Lucas (Tocantins Agropecuária Ltda)
+email=lucas@tocantinsagro.com.br
+repository=https://github.com/lucas/sistema_irrigacao_plugin
+about=Este plugin realiza cálculo hidraúlico e gerador de relatórios de sistemas de irrigação por aspersão.
+icon=icons/plugin_icon.png
